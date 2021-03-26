@@ -1,1 +1,0 @@
-/Users/thanhnguyen/Sites/magento24/lib/web/mage/menu.js
