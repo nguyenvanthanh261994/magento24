@@ -1,0 +1,1 @@
+/Users/thanhnguyen/Sites/magento24/vendor/magento/module-security/view/base/web/js/escaper.js
